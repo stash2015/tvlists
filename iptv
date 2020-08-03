@@ -73,3 +73,7 @@ https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:0,ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+#EXTINF:0,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,NBC NEWS NOW
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
